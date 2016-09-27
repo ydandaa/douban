@@ -1,0 +1,442 @@
+#nav{
+	width:100%;
+	height: 50px;
+	background-color: white;
+}
+#reg{
+     width: 100%;
+     height: 175px;
+     background-image: url(doubanapp4_bg.png);
+     background-repeat:no-repeat; 
+     background-position: top right;
+     background-color: #f1faf1;
+}
+
+.img{
+	  margin-left: 166px;
+      position: relative;
+      top: -133px;
+}
+.rd{
+	position: relative;
+    right: -165px;
+    width: 952px;
+    height: 351px;
+}
+.size{
+	  position: relative;
+      right: -179px;
+      height: 175px;
+}
+.logo{
+	   position: relative;
+       left: 172px;
+}
+.input{
+	position: relative;
+    left: 35px;
+    top: -7px;
+    width: 300px;
+    height: 23px;
+}
+.zt{
+	width: 613px;
+    height: 40px;
+    float: right;
+    list-style-type: none;
+    display: inline-flex;
+    position: relative;
+    top: -34px;
+}
+.zt a{
+	text-decoration: none;
+	color: black;
+}
+.ds{
+	margin-right: 20px;
+    font-size: 22px;
+}
+.dy{
+	margin-right: 20px;
+    font-size: 22px;
+}
+.yy{
+	margin-right: 20px;
+    font-size: 22px;
+}
+.xz{
+	margin-right: 20px;
+    font-size: 22px;
+}
+.tc{
+	margin-right: 20px;
+    font-size: 22px;
+}
+.FM{
+	margin-right: 20px;
+    font-size: 22px;
+}
+.dx{
+	margin-right: 20px;
+    font-size: 22px;
+}
+.sj{
+	margin-right: 20px;
+    font-size: 22px;
+}
+.dy b{
+	color: #37a;
+}
+.yy b{
+	color:#F37F00;
+}
+.xz b{
+	color: #0F959D;
+}
+.tc b{
+	color:#E85205;
+}
+.FM b{
+	color:#9BD7C5;
+}
+.dx b{
+	color:#DB5140;
+}
+.sj b{
+	color: #539200;
+}
+.reg-1{
+	  width: 800px;
+      height: 175px;
+}
+.reg-2{
+	list-style-type: none;
+    position: relative;
+    top: -145px;
+    left: 564px;
+    font-size: 26px;
+}
+.reg-3{
+	list-style-type: none;
+    position: relative;
+    top: -131px;
+    left: 537px;
+    font-size: 13px;
+}
+.reg-4{
+	list-style-type: none;
+    width: 120px;
+    position: relative;
+    top: -107px;
+    left: 524px;
+}
+.reg-4 a{
+	  font-size: 15px;
+      background-color: #99de30;
+      text-decoration: none;
+      color: black;
+}
+.reg-1>a{
+	   position: relative;
+       top: -130px;
+       left: 669px;
+}
+.ico{
+	width: 27px;
+    height: 26px;
+}
+.reg-5{
+	  position: relative;
+      width: 531px;
+      top: -175px;
+      height: 175px;
+      float: right;
+}
+.yx{
+	width: 217px;
+    height: 22px;
+}
+.reg-6{
+	   list-style-type: none;
+       margin: 27px 46px 47px;
+}
+.reg-7{
+	 list-style-type: none;
+     margin-left: 46px;
+     margin-top: -29px;
+}
+.dl{
+	width: 108px;
+    margin-left: 46px;
+    margin-top: 21px;
+}
+.zc{
+	width: 108px;
+}
+#sns{
+	width: 100%;
+	height: 552px;
+	background-color:white;
+}
+.sns-1{
+	  height: 131px;
+}
+.rd{
+	width: 952px;
+    height: 426px;
+	list-style-type: none;
+}
+.rd-1{
+	float: left;
+	width: 403px;
+    height: 419px;
+}
+.rd-1 li{
+	list-style-type: none;
+	float: left;
+}
+.rd-2{
+	position: relative;
+    right: 41px;
+}
+.rd-3{
+	position: relative;
+    right: 41px;
+}
+.rd-1 li a{
+	text-decoration: none;
+	font-size: 12px;
+}
+.rd-1 li a:hover{
+	background-color: #37A;
+}
+.notes{
+	width: 275px;
+	height: 419px;
+	float: left;
+}
+.notes li{
+      line-height: 24px;
+      font-size: 15px;
+}
+.notes a{
+	text-decoration: none;
+}
+.notes a:hover{
+	background-color: #37A;
+}
+.note-1{
+	color:#c7b1b1;
+}
+.note-2{
+	font-size: 14px;
+}
+.side{
+	width: 265px;
+    height: 372px;
+    float: right;
+}
+.side img{
+     width: 265px;
+}
+.side li{
+	font-size: 15px;
+}
+.side span{
+	font-size: 15px;
+	color:#c7b1b1;
+}
+.xshd{
+	line-height: 28px;
+}
+.cj{
+	margin-top: 6px;
+}
+.xshd a{
+	text-decoration: none;
+	color: green;
+}
+.cj a{
+	text-decoration: none;	
+}
+.cj a:hover{
+		background-color: #37A;
+}
+.book{
+	width: 100%;
+	height: 655px;
+	background-color:#F7F7F7;
+}
+.book1{
+	  width: 91px;
+      height: 655px;
+      background-color:#F7F7F7 ;
+      margin-left: 195px;
+}
+.book1 li{
+	 list-style-type: none;
+}
+.book2{
+	   font-size: 28px;
+       padding-top: 40px;
+}
+.book1 a{
+	text-decoration: none;
+	color: black;
+}
+.book3{
+	 line-height: 38px;
+}
+.book1 a:hover{
+	background-color: #37A;
+}
+.main{
+	position: relative;
+    top: -655px;
+    left: 311px;
+	width: 535px;
+	height: 655px;
+	float: left;
+}
+.bian{
+	position: relative;
+    top: -655px;
+    left: 300px;
+	width: 300px;
+	height: 655px;
+	float: left;
+}
+.main1{
+	margin-top: 41px;
+	width: 535px;
+	height: 262px;
+}
+.main li{
+	list-style-type: none;
+}
+.main2{
+	width: 105px;
+	float: left;
+	margin: 10px;
+}
+.main2 span{
+	font-size: 14px;
+}
+.main2 span a{
+	text-decoration: none;
+	color: black;
+}
+.main2 span a:hover{
+	background-color: #37A;
+}
+.main3{
+	width: 535px;
+	height: 262px;
+}
+.main4{
+	width: 101px;
+	height: 151px;
+}
+.wx{
+	width: 285px;
+	height: 51px;
+}
+.wx li{
+	font-size: 15px;
+    padding-right: 7px;
+    list-style-type: none;
+    float: left;
+}
+.section{
+	width: 100%;
+	height: 640px;
+}
+.section1{
+	margin-left: 186px;
+    width: 950px;
+    height: 640px;
+}
+.section2{
+	width: 120px;
+	height: 640px;
+}
+.section2 li{
+       list-style-type: none;
+       position: relative;
+       top: -622px;
+       line-height: 37px;
+}
+.section2 li a{
+       text-decoration: none;
+       color: black;
+}
+.section2 li a:hover{
+       background-color: #37A;
+}
+.section3{
+	position: relative;
+    top: -640px;
+    left: 116px;
+	width: 535px;
+	height: 640px;
+}
+.mod{
+	width: 535px;
+	height: 281px;
+}
+.mod li{
+	list-style-type: none;
+	margin-right: 6px;
+}
+.mod img{
+	width: 261px;
+	height: 209px;
+}
+.mod1{
+	width: 261px;
+	float: left;
+}
+.mod1 a{
+	text-decoration: none;
+}
+.mod2{
+	color: #555;
+}
+.section3 li{
+	list-style-type: none;
+}
+.mod3{
+	width: 265px;
+	height: 383px;
+	position: relative;
+    top: -1273px;
+    left: 693px;
+}
+.mod4{
+	height: 219px;
+	width: 265px;
+}
+.mod4 li{
+	list-style-type: none;
+	margin-top: 6px;
+}
+.mod5{
+	height: 81px;
+	width: 265px;
+}
+.mod5 li{
+	list-style-type: none;
+	float: left;
+	margin-right: 13px;
+}
+.hr{
+	margin-top: -18px;
+}
+.mod6{
+	width: 265px;
+	height: 124px;
+}
+.shi{
+	width: 265px;
+    height: 160px;
+}
